@@ -1,17 +1,10 @@
-# Nome do meu projeto
+# Robotron-2000
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto desenvolvido durante o curso JavaScript: manipulando o DOM
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Robotron-2000**
+| :label: Tecnologias | Java, Html, CSS
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
-
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+![image](https://user-images.githubusercontent.com/21301483/230469881-b117ad89-7a2c-4000-b608-3b01dbc969b3.png#vitrinedev)
