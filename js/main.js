@@ -59,3 +59,25 @@ function atualizaEstatistica(peca, operacao) {
         }
     })
 }
+
+const cores = {
+    "preto": 'img/robotronPreto.png',
+    "azul": 'img/robotronAzul.png',
+    "vermelho": 'img/robotronVermelho.png',
+    "amarelo": 'img/robotronAmarelo.png',
+    "branco": 'img/robotronBranco.png',
+    "rosa": 'img/robotronRosa.png',      
+}
+
+const cor = document.querySelectorAll(".cor_robo");
+
+cor.forEach((elemento) => {
+    elemento.addEventListener("click", (evento)=>{
+        escolheCor(evento.target.id)
+    })
+})
+
+function escolheCor(escolha){
+    console.log(escolha)
+    if (escolha.id = 'azul');
+}
