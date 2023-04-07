@@ -78,6 +78,6 @@ cor.forEach((elemento) => {
 })
 
 function escolheCor(escolha){
-    console.log(escolha)
-    if (escolha.id = 'azul');
+    const mudacor = document.getElementById("robotron");
+    mudacor.src = cores[escolha];
 }
